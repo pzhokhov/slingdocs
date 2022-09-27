@@ -8,7 +8,7 @@
    width="1540.3341"
    height="1450.7393"
    viewBox="0 0 1540.3341 1450.7392"
-   sodipodi:docname="sling_fuel_diagram.svg"
+   sodipodi:docname="fuel_diagram.svg"
    inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -56,14 +56,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="0.37878805"
-     inkscape:cx="824.99963"
-     inkscape:cy="677.15969"
-     inkscape:window-width="1920"
-     inkscape:window-height="1027"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1"
+     inkscape:zoom="0.87835234"
+     inkscape:cx="952.35131"
+     inkscape:cy="890.87256"
+     inkscape:window-width="1792"
+     inkscape:window-height="975"
+     inkscape:window-x="401"
+     inkscape:window-y="1465"
+     inkscape:window-maximized="0"
      inkscape:current-layer="g894"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -1843,108 +1843,108 @@
        style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect28389);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="10.671875"
          y="1140.1081"
-         id="tspan182747">List of things potentially still needed:
+         id="tspan14176">List of things potentially still needed:
 </tspan><tspan
          x="10.671875"
          y="1155.1081"
-         id="tspan182749">
+         id="tspan14178">
 </tspan><tspan
          x="10.671875"
          y="1170.1081"
-         id="tspan182751">1/4 NPT male - AN8 male adapter   x 2  (may be able to use 90 deg)
+         id="tspan14180">1/4 NPT male - AN8 male adapter   x 2  (may be able to use 90 deg)
 </tspan><tspan
          x="10.671875"
          y="1185.1081"
-         id="tspan182753">AN8 female hose connector x (10 before fw + maybe 2 more + ) -- instead of (L) (depending on the andair </tspan><tspan
+         id="tspan14182">AN8 female hose connector x (14 before fw + maybe 2 more ) -- instead of (L) (depending on the andair </tspan><tspan
          x="10.671875"
          y="1200.1081"
-         id="tspan182755">check valve)
+         id="tspan14184">check valve)
 </tspan><tspan
          x="10.671875"
          y="1215.1081"
-         id="tspan182757">AN8  
+         id="tspan14186">AN8  
 </tspan><tspan
          x="10.671875"
          y="1230.1081"
-         id="tspan182759">
+         id="tspan14188">
 </tspan><tspan
          x="10.671875"
          y="1245.1081"
-         id="tspan182761">
+         id="tspan14190">
 </tspan><tspan
          x="10.671875"
          y="1260.1081"
-         id="tspan182763">AN8 t-shaped connectors (instead of (N)
+         id="tspan14192">AN8 t-shaped connectors (instead of (N)
 </tspan><tspan
          x="10.671875"
          y="1275.1081"
-         id="tspan182765">
+         id="tspan14194">
 </tspan><tspan
          x="10.671875"
          y="1290.1081"
-         id="tspan182767">AN8 90 degree male bulkhead connector + installation nuts (instead of (K))
+         id="tspan14196">AN8 90 degree male bulkhead connector + installation nuts (instead of (K))
 </tspan><tspan
          x="10.671875"
          y="1305.1081"
-         id="tspan182769">AN8 straight male bulkhead connector + installation nuts (instead of (L))
+         id="tspan14198">AN8 straight male bulkhead connector + installation nuts (instead of (L))
 </tspan><tspan
          x="10.671875"
          y="1320.1081"
-         id="tspan182771">
+         id="tspan14200">
 </tspan><tspan
          x="10.671875"
          y="1335.1081"
-         id="tspan182773">M14 to AN8 (instead of Q)
+         id="tspan14202">M14 to AN8 (instead of Q)
 </tspan><tspan
          x="10.671875"
          y="1350.1081"
-         id="tspan182775">M12 to AN8 (instead of R)
+         id="tspan14204">M12 to AN8 (instead of R)
 </tspan><tspan
          x="10.671875"
          y="1365.1081"
-         id="tspan182777">
+         id="tspan14206">
 </tspan><tspan
          x="10.671875"
          y="1380.1081"
-         id="tspan182779">AN8 male to AN6 female 90 degree connector (T) x 4 
+         id="tspan14208">AN8 male to AN6 female 90 degree connector (T, W) x 8  
 </tspan><tspan
          x="10.671875"
          y="1395.1081"
-         id="tspan182781">AN8 male to AN6 female straight connector (connect to S) x 2, ideally stainless steel?
+         id="tspan14210">AN8 male to AN6 female straight connector (connect to S) x 2, ideally stainless steel?
 </tspan><tspan
          x="10.671875"
          y="1410.1081"
-         id="tspan182783">
+         id="tspan14212">
 </tspan><tspan
          x="10.671875"
          y="1425.1081"
-         id="tspan182785"> 
+         id="tspan14214"> 
 </tspan><tspan
          x="10.671875"
          y="1440.1081"
-         id="tspan182787">
+         id="tspan14216">
 </tspan><tspan
          x="10.671875"
          y="1455.1081"
-         id="tspan182789">
+         id="tspan14218">
 </tspan><tspan
          x="10.671875"
          y="1470.1081"
-         id="tspan182791">
+         id="tspan14220">
 </tspan><tspan
          x="10.671875"
          y="1485.1081"
-         id="tspan182795"><tspan
+         id="tspan14224"><tspan
    style="font-weight:bold"
-   id="tspan182793">Check the andair check valve (V) fittings, bypass valve (G) fittings</tspan>
+   id="tspan14222">Check the andair check valve (V) fittings, bypass valve (G) fittings</tspan>
 </tspan><tspan
          x="10.671875"
          y="1500.1081"
-         id="tspan182797">
+         id="tspan14226">
 </tspan><tspan
          x="10.671875"
          y="1515.1081"
-         id="tspan182799">
+         id="tspan14228">
 </tspan></text><path
        style="fill:none;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
        d="M 614.13271,257.21755 658.1,265.7"
