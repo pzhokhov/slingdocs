@@ -67,12 +67,12 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="0.80064169"
-     inkscape:cx="737.53342"
-     inkscape:cy="1008.566"
+     inkscape:cx="720.04744"
+     inkscape:cy="896.15618"
      inkscape:window-width="1792"
      inkscape:window-height="975"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="999"
      inkscape:window-maximized="1"
      inkscape:current-layer="g894"
      fit-margin-top="0"
@@ -1836,136 +1836,130 @@
        style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect28389);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="10.671875"
          y="1140.1081"
-         id="tspan223210"><tspan
+         id="tspan226383"><tspan
            style="font-weight:bold"
-           id="tspan223208">List of items / fittings needed:
+           id="tspan226381">List of items / fittings needed:
 </tspan></tspan><tspan
          x="10.671875"
          y="1155.1081"
-         id="tspan223214"><tspan
+         id="tspan226387"><tspan
            style="font-weight:bold"
-           id="tspan223212">
+           id="tspan226385">
 </tspan></tspan><tspan
          x="10.671875"
          y="1170.1081"
-         id="tspan223218"><tspan
+         id="tspan226391"><tspan
            style="font-weight:bold"
-           id="tspan223216">         
+           id="tspan226389">         
 </tspan></tspan><tspan
          x="10.671875"
          y="1185.1081"
-         id="tspan223222"><tspan
+         id="tspan226395"><tspan
            style="font-weight:bold"
-           id="tspan223220">
+           id="tspan226393">
 </tspan></tspan><tspan
          x="10.671875"
          y="1200.1081"
-         id="tspan223226"><tspan
+         id="tspan226399"><tspan
            style="font-weight:bold"
-           id="tspan223224">
+           id="tspan226397">
 </tspan></tspan><tspan
          x="10.671875"
          y="1215.1081"
-         id="tspan223230"><tspan
+         id="tspan226403"><tspan
    style="font-weight:bold"
-   id="tspan223228"> </tspan>- AN6 female - AN8 male adapter                                           x 14 (2 S/S if possible)
+   id="tspan226401"> </tspan>- AN6 female - AN8 male adapter                                           x 14 (2 S/S if possible)
 </tspan><tspan
          x="10.671875"
          y="1230.1081"
-         id="tspan223232"> - AN8 straight hose end (SHE), replaces (S), (L)                     x 17 (2 S/S  if possible)
+         id="tspan226405"> - AN8 straight hose end (SHE), replaces (S), (L)                     x 17 (2 S/S  if possible)
 </tspan><tspan
          x="10.671875"
          y="1245.1081"
-         id="tspan223234"> 
+         id="tspan226407"> 
 </tspan><tspan
          x="10.671875"
          y="1260.1081"
-         id="tspan223236">- AN8 90deg hose end (90HE), replaces (W), (L+M)                  x 12
+         id="tspan226409">- AN8 90deg hose end (90HE), replaces (W), (L+M)                  x 12
 </tspan><tspan
          x="10.671875"
          y="1275.1081"
-         id="tspan223238">- AN8 45 deg hose end (45HE),                                               x 2 (maybe more, geometry pending)
+         id="tspan226411">- AN8 45 deg hose end (45HE),                                               x 2 (maybe more, geometry pending)
 </tspan><tspan
          x="10.671875"
          y="1290.1081"
-         id="tspan223240">- AN8 - 1/4NPT straight (for booster pump and fuel manifold)    x 6
+         id="tspan226413">- AN8 - 1/4NPT straight (for booster pump and fuel manifold)    x 6
 </tspan><tspan
          x="10.671875"
          y="1305.1081"
-         id="tspan223242">- AN8 - 1/4NPT 90 deg, replaces (T)                                        x 6
+         id="tspan226415">- AN8 - 1/4NPT 90 deg, replaces (T)                                        x 6
 </tspan><tspan
          x="10.671875"
          y="1320.1081"
-         id="tspan223244">- AN8 male - M14 adapter, replaces (Q)                                     x 1 (OR +2 AN6-AN8 adapters)
+         id="tspan226417">- AN8 male - M14 adapter, replaces (Q)                                     x 1 (OR +2 AN6-AN8 adapters)
 </tspan><tspan
          x="10.671875"
          y="1335.1081"
-         id="tspan223246">- AN8 male - M12 adapter, replaces (R)                                     x 1
+         id="tspan226419">- AN8 male - M12 adapter, replaces (R)                                     x 1
 </tspan><tspan
          x="10.671875"
          y="1350.1081"
-         id="tspan223248">- AN8 female-female conn, straight,                                        x 3
+         id="tspan226421">- AN8 female-female conn, straight,                                        x 3
 </tspan><tspan
          x="10.671875"
          y="1365.1081"
-         id="tspan223250">- AN8 female-female conn, 90 deg                                          x 3
+         id="tspan226423">- AN8 female-female conn, 90 deg                                          x 3
 </tspan><tspan
          x="10.671875"
          y="1380.1081"
-         id="tspan223252">- AN8 bulkhead conn, male-male, straight replaces (O)              x 1
+         id="tspan226425">- AN8 bulkhead conn, male-male, straight replaces (O)              x 1
 </tspan><tspan
          x="10.671875"
          y="1395.1081"
-         id="tspan223254">- AN8 bulkhead conn, male-male, 90deg replaces (K)                x 1  
+         id="tspan226427">- AN8 bulkhead conn, male-male, 90deg replaces (K)                x 1  
 </tspan><tspan
          x="10.671875"
          y="1410.1081"
-         id="tspan223258">   <tspan
+         id="tspan226431">   <tspan
    style="font-weight:bold"
-   id="tspan223256">
+   id="tspan226429">
 </tspan></tspan><tspan
          x="10.671875"
          y="1425.1081"
-         id="tspan223262"><tspan
+         id="tspan226435"><tspan
            style="font-weight:bold"
-           id="tspan223260">
+           id="tspan226433">
 </tspan></tspan><tspan
          x="10.671875"
          y="1440.1081"
-         id="tspan223266"><tspan
+         id="tspan226439"><tspan
            style="font-weight:bold"
-           id="tspan223264">
+           id="tspan226437">
 </tspan></tspan><tspan
          x="10.671875"
          y="1455.1081"
-         id="tspan223270"><tspan
+         id="tspan226443"><tspan
            style="font-weight:bold"
-           id="tspan223268">
+           id="tspan226441">
 </tspan></tspan><tspan
          x="10.671875"
          y="1470.1081"
-         id="tspan223274"><tspan
+         id="tspan226447"><tspan
            style="font-weight:bold"
-           id="tspan223272">
+           id="tspan226445">
 </tspan></tspan><tspan
          x="10.671875"
          y="1485.1081"
-         id="tspan223278"><tspan
+         id="tspan226451"><tspan
            style="font-weight:bold"
-           id="tspan223276">
+           id="tspan226449">
 </tspan></tspan><tspan
          x="10.671875"
          y="1500.1081"
-         id="tspan223282"><tspan
+         id="tspan226455"><tspan
            style="font-weight:bold"
-           id="tspan223280">
-</tspan></tspan></text><path
-       style="fill:none;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
-       d="M 614.13271,257.21755 658.1,265.7"
-       id="path54228" /><path
-       style="fill:none;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
-       d="M 614.13271,257.21754 658.6,244"
-       id="path54263" /><text
+           id="tspan226453">
+</tspan></tspan></text><text
        xml:space="preserve"
        transform="matrix(0.75000002,0,0,-0.75000002,0,841.89002)"
        id="text170323"
@@ -2484,4 +2478,15 @@
          id="tspan168422"
          style="stroke-width:0.75"
          x="905.38068"
-         y="-698.93347">AN6</tspan></text></g></svg>
+         y="-698.93347">AN6</tspan></text><text
+       xml:space="preserve"
+       style="font-size:9.99998px;line-height:1.25;font-family:sans-serif;stroke-width:0.75"
+       x="547.39996"
+       y="-436.79999"
+       id="text224822"
+       transform="scale(1,-1)"><tspan
+         sodipodi:role="line"
+         id="tspan224820"
+         style="stroke-width:0.75"
+         x="547.39996"
+         y="-436.79999">maybe 45HE</tspan></text></g></svg>
