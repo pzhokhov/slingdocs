@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="6in"
+   height="3.5in"
+   viewBox="0 0 152.4 88.9"
+   version="1.1"
+   id="svg1167"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   sodipodi:docname="testpatch.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1169"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="in"
+     inkscape:zoom="0.58528294"
+     inkscape:cx="97.388795"
+     inkscape:cy="202.46618"
+     inkscape:window-width="1671"
+     inkscape:window-height="959"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1164" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1969"
+       style="stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-4.2935045,129.11206)">
+      <circle
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path24317"
+         cx="203.38823"
+         cy="-329.5274"
+         r="150.24001" />
+      <circle
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path24693"
+         cx="84.344536"
+         cy="-448.57327"
+         r="7.1962204" />
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path24693-3"
+         cx="322.42453"
+         cy="-448.56949"
+         r="7.1962204" />
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path24693-0"
+         cx="84.344536"
+         cy="-210.4895"
+         r="7.1962204" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.6081px;line-height:1.25;font-family:Scriptina;-inkscape-font-specification:Scriptina;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.429821"
+       x="5.8436079"
+       y="-97.935318"
+       id="text1517"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         id="tspan1515"
+         x="5.8436079"
+         y="-97.935318"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.339px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.429821">N137SP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;line-height:1.25;font-family:Scriptina;-inkscape-font-specification:Scriptina;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="38.398922"
+       y="-118.71744"
+       id="text1141-8-5-6-8-8-6-8-0"
+       inkscape:transform-center-x="-22.364955"
+       inkscape:transform-center-y="3.3633107"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         x="38.398922"
+         y="-118.71744"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan1469-5">FLAPS</tspan></text>
+  </g>
+</svg>
