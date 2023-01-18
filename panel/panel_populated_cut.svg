@@ -26,14 +26,14 @@
      fit-margin-top="0"
      inkscape:current-layer="g111"
      inkscape:window-maximized="0"
-     inkscape:window-y="674"
+     inkscape:window-y="38"
      inkscape:window-x="39"
-     inkscape:cy="1121.2707"
-     inkscape:cx="812.4752"
-     inkscape:zoom="1.0929564"
+     inkscape:cy="726.88627"
+     inkscape:cx="535.44599"
+     inkscape:zoom="0.68167472"
      showgrid="false"
      id="namedview115"
-     inkscape:window-height="959"
+     inkscape:window-height="955"
      inkscape:window-width="1703"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -60,6 +60,12 @@
      id="desc2">C:\Users\sasha user\Downloads\IN-PNL-STD-X-F-1.DXF - scale = 1.000000, origin = (0.000000, 0.000000), method = manual</desc>
   <defs
      id="defs17">
+    <rect
+       x="489.31737"
+       y="322.62684"
+       width="580.72831"
+       height="254.51673"
+       id="rect2601" />
     <rect
        x="392.07183"
        y="1290.2222"
@@ -864,7 +870,7 @@
          id="tspan1143-0-3-8">WARNING</tspan></text>
     <g
        id="g18595"
-       transform="translate(0,-48)">
+       transform="translate(40,-48)">
       <ellipse
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.63865;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
          id="path1621"
@@ -973,17 +979,17 @@
        y="-322.78677"
        ry="27.849096" />
     <circle
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.64335;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.14527;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
        id="path5367"
-       cx="523.27203"
-       cy="418.06213"
-       r="90.378326" />
+       cx="539.12714"
+       cy="415.91727"
+       r="117.98248" />
     <circle
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.64335;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.14527;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
        id="path5367-7"
-       cx="159.72839"
-       cy="418.06213"
-       r="90.378326" />
+       cx="241.58351"
+       cy="415.91727"
+       r="117.98248" />
     <rect
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.1355598;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect5417"
@@ -1465,7 +1471,7 @@
        r="17.007874" />
     <g
        id="g18586"
-       transform="translate(-226,-210)">
+       transform="translate(-192,-210)">
       <rect
          style="fill:none;stroke:#000000;stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect16783"
@@ -1488,7 +1494,7 @@
     </g>
     <g
        id="g18586-7"
-       transform="matrix(-1,0,0,1,910.92406,-210.00069)">
+       transform="matrix(-1,0,0,1,878.92406,-210.00069)">
       <rect
          style="fill:none;stroke:#000000;stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect16783-1"
@@ -1547,56 +1553,40 @@
          cy="-22.568016"
          r="22.677166" />
     </g>
-    <g
-       id="g31863"
-       transform="translate(-226,-210)">
-      <rect
-         style="fill:none;stroke:#000000;stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect31857"
-         width="113.28683"
-         height="8.0647888"
-         x="-1172.1766"
-         y="446.67395" />
-      <circle
-         style="fill:none;stroke:#000000;stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none"
-         id="circle31859"
-         cx="-1124.5769"
-         cy="418.26559"
-         r="7.2566929" />
-      <circle
-         style="fill:none;stroke:#000000;stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none"
-         id="circle31861"
-         cx="-1124.5111"
-         cy="482.67459"
-         r="7.2566929" />
-    </g>
-    <g
-       id="g31871"
-       transform="matrix(-1,0,0,1,910.92406,-210.00069)">
-      <rect
-         style="fill:none;stroke:#000000;stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect31865"
-         width="113.28683"
-         height="8.0647888"
-         x="-1172.1766"
-         y="446.67395" />
-      <circle
-         style="fill:none;stroke:#000000;stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none"
-         id="circle31867"
-         cx="-1124.5769"
-         cy="418.26559"
-         r="7.2566929" />
-      <circle
-         style="fill:none;stroke:#000000;stroke-width:0.377953;stroke-miterlimit:4;stroke-dasharray:none"
-         id="circle31869"
-         cx="-1124.5111"
-         cy="482.67459"
-         r="7.2566929" />
-    </g>
     <text
        xml:space="preserve"
        transform="translate(-1503.4094,-544.16218)"
        id="text36047"
        style="font-size:26.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect36049)" />
+    <text
+       xml:space="preserve"
+       transform="translate(-1503.4094,-544.16218)"
+       id="text2599"
+       style="font-size:37.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2601)"><tspan
+         x="489.31641"
+         y="356.68726"
+         id="tspan5135">- check ignition diameter
+</tspan><tspan
+         x="489.31641"
+         y="403.35388"
+         id="tspan5137">- add mic and headphone </tspan><tspan
+         x="489.31641"
+         y="450.02051"
+         id="tspan5139">icons
+</tspan><tspan
+         x="489.31641"
+         y="496.68713"
+         id="tspan5141">- make and orient heater knob </tspan><tspan
+         x="489.31641"
+         y="543.35376"
+         id="tspan5143">cutout
+</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3.77953"
+       id="rect2195"
+       width="181.41733"
+       height="1.6877182"
+       x="2003.4044"
+       y="182.0946" />
   </g>
 </svg>
