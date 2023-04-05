@@ -27,13 +27,14 @@
      inkscape:window-height="1025"
      id="namedview866"
      showgrid="false"
-     inkscape:zoom="0.29071408"
-     inkscape:cx="1702.876"
-     inkscape:cy="314.84506"
+     inkscape:zoom="0.20506097"
+     inkscape:cx="2248.804"
+     inkscape:cy="609.00146"
      inkscape:window-x="67"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg113" />
+     inkscape:current-layer="svg113"
+     showguides="false" />
   <metadata
      id="metadata117">
     <rdf:RDF>
@@ -132,11 +133,6 @@
      d="M 0.45,606.93628 V 797.79993"
      style="fill:none;stroke:#000000;stroke-width:0.89999998;stroke-linecap:round"
      id="path63"
-     inkscape:connector-curvature="0" />
-  <path
-     d="M 3691.296,797.79993 V 606.93628"
-     style="fill:none;stroke:#000000;stroke-width:0.89999998;stroke-linecap:round"
-     id="path71"
      inkscape:connector-curvature="0" />
   <g
      id="g1247"
@@ -439,24 +435,6 @@
        y="472.23798"
        x="306.44418">BKUP</tspan></text>
   <text
-     id="text1141-6-6-3"
-     y="585.28955"
-     x="306.35434"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33329964px;line-height:1.25;font-family:Scriptina;-inkscape-font-specification:Scriptina;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     xml:space="preserve"><tspan
-       id="tspan5418"
-       style="font-size:26.66666603px;text-align:center;text-anchor:middle"
-       y="585.28955"
-       x="306.35434">BKUP</tspan><tspan
-       id="tspan6020"
-       style="font-size:26.66666603px;text-align:center;text-anchor:middle"
-       y="621.95618"
-       x="306.35434">PWR</tspan><tspan
-       style="font-size:26.66666603px;-inkscape-font-specification:texgyre adventor;font-weight:normal;text-anchor:middle;font-stretch:normal;font-variant:normal;font-family:texgyre adventor;font-style:normal;text-align:center"
-       y="658.6228"
-       x="306.35434"
-       id="tspan998" /></text>
-  <text
      id="text1141-5-4-8"
      y="593.82355"
      x="111.125"
@@ -694,16 +672,28 @@
      preserveAspectRatio="none"
      height="30.565678"
      width="20.978661" />
-  <circle
-     style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.14527011;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-     id="path5367-7"
-     cx="1788.252"
-     cy="960.11664"
-     r="117.98248" />
-  <circle
-     style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.14527011;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-     id="path5367-7-6"
-     cx="2049.9482"
-     cy="960.54248"
-     r="117.98248" />
+  <g
+     id="g1322"
+     transform="translate(0,150)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33329964px;line-height:1.25;font-family:Scriptina;-inkscape-font-specification:Scriptina;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="306.82306"
+       y="435.46323"
+       id="text1141-6-6-3-9"><tspan
+         x="306.82306"
+         y="435.46323"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;font-family:'texgyre adventor';-inkscape-font-specification:'texgyre adventor';text-align:center;text-anchor:middle"
+         id="tspan5418-6">BKUP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33329964px;line-height:1.25;font-family:Scriptina;-inkscape-font-specification:Scriptina;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="306.31271"
+       y="472.15939"
+       id="text1141-6-6-3-9-2"><tspan
+         x="306.31271"
+         y="472.15939"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;font-family:'texgyre adventor';-inkscape-font-specification:'texgyre adventor';text-align:center;text-anchor:middle"
+         id="tspan5418-6-4">PWR</tspan></text>
+  </g>
 </svg>
